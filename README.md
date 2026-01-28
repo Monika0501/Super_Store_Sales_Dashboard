@@ -1,7 +1,9 @@
 **📊 Sales_Store_Sales_Dashboard**
+
 This project focuses on analyzing sales performance using Power BI, transforming raw data into actionable insights with forecasting and advanced analytics.
 
 **📘 Project Overview**
+
 Goal:
 To understand sales trends, profit distribution, product performance, customer behavior, and enable accurate demand planning using forecasting.
 Dataset:
@@ -10,6 +12,7 @@ Tools Used:
 Power BI, SQL, Excel, Power Query, DAX
 
 **📌 Key Insights**
+
 Total Sales: $1.57M
 Orders Processed: 22K+
 Total Profit: $175K
@@ -21,6 +24,7 @@ Standard shipping was the most preferred method
 
 
 ⚙️ **Data Cleaning & Modelling**
+
 Cleaned and transformed raw sales data using Power Query
 Built a Star Schema data model with Fact & Dimension tables
 Created advanced DAX Measures for KPIs:
@@ -32,6 +36,7 @@ Established strong relationships to support slicing & dicing of data
 
 
 **📈 Visualizations**
+
 Sales & Profit Overview Dashboard
 Regional Performance Analysis
 Customer Segment Breakdown
@@ -41,11 +46,13 @@ Shipping Mode Trends
 
 
 **🗂 Files Included**
+
 Pbix_SalesAnalyticsDashboard.pbix: Complete interactive Power BI dashboard
 README.md: This documentation
 
 
 **🧠 Conclusion**
+
 This project demonstrates how data modeling, DAX calculations, and intuitive dashboard design help decision-makers quickly understand business performance and plan efficiently.
 Combining 8+ years of Accounts Payable domain knowledge with modern analytics tools enables stronger business insights and data‑driven decision‑making.
 
